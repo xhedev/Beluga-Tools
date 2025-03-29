@@ -15,7 +15,7 @@
 
 </p>
 
-# ⚠️ **OPTION**  
+# 📙 **OPTION**  
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## ⚠️ **DISCLAIMER**  
+# ⚠️ **DISCLAIMER**  
 
 _This tool was developed for personal use and **educational** / **legal purposes** only.
 I am **NOT RESPONSIBLE** for any misuse of this tool._
@@ -49,7 +49,7 @@ I am **NOT RESPONSIBLE** for any misuse of this tool._
 ---
 
 
-## ⭐ **Important Notes**
+# ⭐ **Important Notes**
 
 - **DO NOT** Copy and/or Re-Sell or Re-Publish This Tool as Your Own; It’s Not Even Worth Copying 😎
 - This project is actively being updated, ideally weekly ; Certain features may not work as intended
