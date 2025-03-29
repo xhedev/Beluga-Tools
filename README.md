@@ -2,6 +2,7 @@
 <img src="https://img.shields.io/badge/Category-OSINT-7D4698?style=for-the-badge&logo=magnifying-glass&logoColor=white" alt="OSINT">
 <img src="https://img.shields.io/badge/Category-Discord%20Tools-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Tools">
 <img src="https://img.shields.io/badge/Category-Networking-7D4698?style=for-the-badge&logo=network-wired&logoColor=white" alt="Networking">
+
 ![Screenshot Beluga](https://i.imgur.com/wAAu4mX.png)
 ---
 <h2 align="center">Designed for Networking, Osint, Pentesting, Discord, and Much More</h2> 
