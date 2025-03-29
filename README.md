@@ -15,18 +15,22 @@
 
 </p>
 
-## ⚠️ **OPTION**  
+# ⚠️ **OPTION**  
 
 ---
 
-# Discord Tools :
-Webhook tools
-Token tools
-Bot tools
+## Discord Tools:
+**- Webhook tools** 
+**- Token tools** 
+**- Bot tools** 
 
-- Network Website
-- Available on **Windows** & **Linux**
+## Network Website:
+**- IP Tools** 
+**- Website scanner** 
+**- Website / Network Attack** 
 
+## Osint:
+**- OSINT utility** 
 
 ---
 
