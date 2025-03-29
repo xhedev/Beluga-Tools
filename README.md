@@ -13,7 +13,7 @@
 
 
 </p>
-## ⚠️ **DISCLAIMER**  
+# ⚠️ **DISCLAIMER**  
 
 _This tool was developed for personal use and **educational** / **legal purposes** only.
 I am **NOT RESPONSIBLE** for any misuse of this tool._
