@@ -9,9 +9,7 @@
 <p align="center">
 
 <img src="https://i.imgur.com/uX0kjWC.png" alt="Platforms"> 
-<img src="https://img.shields.io/badge/Made%20With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Made with Python">
-
-<img src="https://img.shields.io/badge/Interface-CLI-171717?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="CLI">
+<img src="https://i.imgur.com/G1URshu.png" alt="Made with Python">
 
 
 
