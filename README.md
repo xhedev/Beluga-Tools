@@ -24,9 +24,7 @@ I am **NOT RESPONSIBLE** for any misuse of this tool._
 ---
 
 - Developed 100% in Python
-- Fully Open Source & Free Forever
-- One Click Installation
-- Automatic Updates
+- Free Forever
 - Available on **Windows** & **Linux**
 
 
