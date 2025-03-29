@@ -32,7 +32,6 @@
 ## Osint:
 **- OSINT utility** 
 
----
 
 # ⚠️ **DISCLAIMER**  
 
@@ -44,9 +43,6 @@ I am **NOT RESPONSIBLE** for any misuse of this tool._
 - Developed 100% in Python
 - Free Forever
 - Available on **Windows** & **Linux**
-
-
----
 
 
 # ⭐ **Important Notes**
