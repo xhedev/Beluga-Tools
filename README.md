@@ -43,4 +43,3 @@ I am **NOT RESPONSIBLE** for any misuse of this tool._
 
 *[xhe!]*
 
-*[RPxGoon]*
