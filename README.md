@@ -1,7 +1,7 @@
 ## <h1 align="center">Beluga - MultiTool </h1> 
-<img src="https://img.shields.io/badge/Category-OSINT-7D4698?style=for-the-badge&logo=magnifying-glass&logoColor=white" alt="OSINT">
+<img src="https://i.imgur.com/NZPtK6h.png" alt="OSINT">
 <img src="https://i.imgur.com/6oUCJ7d.png" alt="Discord Tools">
-<img src="https://img.shields.io/badge/Category-Networking-7D4698?style=for-the-badge&logo=network-wired&logoColor=white" alt="Networking">
+<img src="https://i.imgur.com/v7pBRtj.png" alt="Networking">
 
 ![Screenshot Beluga](https://i.imgur.com/wAAu4mX.png)
 ---
