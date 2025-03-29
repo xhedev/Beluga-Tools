@@ -40,5 +40,5 @@ I am **NOT RESPONSIBLE** for any misuse of this tool._
 ![Screenshot Beluga](https://i.imgur.com/cPpMXi2.png)
 
 
-*[xhe!]*
+***[xhe!]***
 
