@@ -1,5 +1,5 @@
 ## <h1 align="center">Beluga - MultiTool </h1> 
-![Screenshot Beluga](https://i.imgur.com/cPpMXi2.png)
+![Screenshot Beluga](https://i.imgur.com/wAAu4mX.png)
 ---
 <h2 align="center">Designed for Networking, Osint, Pentesting, Discord, and Much More</h2> 
 <p align="center">
@@ -41,7 +41,7 @@ I am **NOT RESPONSIBLE** for any misuse of this tool._
 - This project is actively being updated, ideally weekly ; Certain features may not work as intended
 - If you'd like to request a feature or report an issue/bug, please join the support server
 
-
+![Screenshot Beluga](https://i.imgur.com/cPpMXi2.png)
 
 
 *[xhe!]*
