@@ -1,4 +1,4 @@
-## <h1 align="center">Beluga - MultiTool </h1> 
+# <h1 align="center">Beluga - MultiTool </h1> 
 <img src="https://i.imgur.com/NZPtK6h.png" alt="OSINT">
 <img src="https://i.imgur.com/6oUCJ7d.png" alt="Discord Tools">
 <img src="https://i.imgur.com/v7pBRtj.png" alt="Networking">
